@@ -1,4 +1,4 @@
-﻿namespace _2025_01_13_Kalapcsvetes
+﻿namespace _2025_01_13_Kalapacsvetes
 {
     internal class Program
     {
